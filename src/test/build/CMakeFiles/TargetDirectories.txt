@@ -1,0 +1,4 @@
+/home/zhongsy/ApplyYoloV5/yolo_cpu/pytorch.cpu/test/build/CMakeFiles/rebuild_cache.dir
+/home/zhongsy/ApplyYoloV5/yolo_cpu/pytorch.cpu/test/build/CMakeFiles/load.dir
+/home/zhongsy/ApplyYoloV5/yolo_cpu/pytorch.cpu/test/build/CMakeFiles/edit_cache.dir
+/home/zhongsy/ApplyYoloV5/yolo_cpu/pytorch.cpu/test/build/CMakeFiles/build.dir

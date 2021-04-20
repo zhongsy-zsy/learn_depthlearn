@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/build.dir/build_enigen.cc.o  -o build  -L/usr/local/cuda/lib64  -L/home/zhongsy/Downloads/TensorRT-7.0.0.11/lib -lnvinfer -lcudart -lnvparsers -lnvonnxparser -lprotobuf -lnvinfer_plugin -Wl,-rpath,/usr/local/cuda/lib64:/home/zhongsy/Downloads/TensorRT-7.0.0.11/lib 
